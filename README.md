@@ -3,7 +3,7 @@
 ### Windows
 
 1. Go to the [**Releases**](../../releases) page
-2. Download the latest YourApp.exe file
+2. Download the latest Ormycut.exe file
 3. Double-click to run — no installation required
 
 > ⚠️ If Windows SmartScreen warns you, click **"More info" → "Run anyway"**
